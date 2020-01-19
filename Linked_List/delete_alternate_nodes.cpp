@@ -27,7 +27,7 @@ Sample Output :
 1 3 5
 */
 
-
+ 
 #include <bits/stdc++.h>
 
 void delete_alternate_node_LinkedList(Node *head) {
